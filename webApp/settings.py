@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-wp=2j^&49e2i_g=ulxlf+0m_-3j*zco&@k3msrta$nv(3oqif%
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'sarawut-projectfinal.herokuapp.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'sarawut-project.herokuapp.com']
 
 
 # Application definition
